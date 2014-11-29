@@ -1,7 +1,7 @@
 One Click Demo Installer when a new subsite is created in a multisite.
 ==========================
 
-Using script from: https://github.com/FrankM1/radium-one-click-demo-install
+Using and customized script from: https://github.com/FrankM1/radium-one-click-demo-install
 
 This library works by importing wordpress content, widgets  and theme options with just one click.
 
